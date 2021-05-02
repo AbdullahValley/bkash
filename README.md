@@ -5,7 +5,7 @@ New bKash Payment Gateway API for Laravel Framework as well as Raw PHP. Speciall
 ![bkash-tokenized-payment](https://user-images.githubusercontent.com/30390432/90474602-7334f700-e147-11ea-8e4e-6d93ac1d25dc.png)
 
 ## Laravel Framework
-You can easily use it for your laravel framework project. Check the **routes.php, bkash.blade.php** and **BkashController.php** files and enjoy.
+You can easily use it for your laravel framework project. Check the **routes.php, bkash-payment.blade.php** and **BkashController.php** files and enjoy.
 
 ## Raw PHP Guidelines
 You can use it for your raw PHP project. I have collected these code from **bKash Developer** GitHub. Please goto **Raw PHP folder** and get all the files. Run the **payment.php** file on your server.
